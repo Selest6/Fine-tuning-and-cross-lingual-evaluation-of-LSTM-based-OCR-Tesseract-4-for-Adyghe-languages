@@ -1,0 +1,1 @@
+# Fine-tuning-and-cross-lingual-evaluation-of-LSTM-based-OCR-Tesseract-4-for-Adyghe-languages
